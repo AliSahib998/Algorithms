@@ -1,0 +1,8 @@
+This problem is here:
+https://leetcode.com/problems/longest-palindromic-substring/
+
+-------------------DESCRIBE-------------------------------------
+required to find longest palindrome in Given string
+
+Note:Palindrome is both it and its reverse the same
+For example-aba,bab etc.
