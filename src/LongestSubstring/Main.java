@@ -1,5 +1,10 @@
 package LongestSubstring;
 
+/**
+ *
+ * @author Ali Sahib
+ */
+
 public class Main {
 
     public static void main(String[] args) {
