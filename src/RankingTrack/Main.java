@@ -2,11 +2,6 @@ package RankingTrack;
 
 import java.util.Arrays;
 
-/**
- *
- * @author Ali Sahib
- */
-
 public class Main {
 
     public static void main(String[] args) {
