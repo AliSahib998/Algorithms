@@ -1,12 +1,5 @@
 package StringToInteger;
 
-
-
-/**
- *
- * @author Ali Sahib
- */
-
 public class Main {
 
 

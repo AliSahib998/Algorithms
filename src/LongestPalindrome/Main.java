@@ -1,11 +1,5 @@
 package LongestPalindrome;
 
-
-/**
- *
- * @author Ali Sahib
- */
-
 public class Main {
     public static void main(String[] args) {
         String word = "babies";
@@ -29,16 +23,21 @@ public class Main {
                 } else {
                     break;
                 }
+
                 if (checkPalindrome(check)) {
                     if (result.length() < check.length()) {
                         result = check;
                     }
                 }
+
             }
+
         }
+
         if (result.isEmpty() && !s.isEmpty()) {
             result = "" + s.charAt(0);
         }
+
         return result;
     }
 

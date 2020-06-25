@@ -1,3 +1,0 @@
-there is need to find the longest common prefix following array
-this problem url following
-https://leetcode.com/problems/longest-common-prefix/
